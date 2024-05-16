@@ -10,13 +10,13 @@
 
 ## Basics Covered
 
-### [Input page](https://letcode.in/edit)**
+### [Input page](https://letcode.in/edit)
 
 1 .type() function
 2 .clear() function.
 3 Assertions: assert attributes using .should()
 
-### [Button page](https://letcode.in/buttons)**
+### [Button page](https://letcode.in/buttons)
 
 1 .click() function
 2 .invoke() function
@@ -24,37 +24,37 @@
 4 .wait()
 5 .url()
 
-### [Select page](https://letcode.in/dropdowns)**
+### [Select page](https://letcode.in/dropdowns)
 
 1 Selection from dropdown.
 2 Iterate items on an element using .each()
 
 
-### [Alert page, Wait page](https://letcode.in/alert)**
+### [Alert page, Wait page](https://letcode.in/alert)
 
 1 window events using .on() : Handling alert,confirm events.
 2 Assertions using .expect()
 3 Stubbing prompt events.
 
 
-### [Frame page](https://letcode.in/frame)**
+### [Frame page](https://letcode.in/frame)
 
 1 Handling iframes.
 2 .wrap()
 
-### [Radio page](https://letcode.in/radio)**
+### [Radio page](https://letcode.in/radio)
 
 1 Interact with radio fields.
 
 
-### [Window page](https://letcode.in/windows)**
+### [Window page](https://letcode.in/windows)
 
 1 Changing element's attribute.
 2 Spying using cy.spy().
 3 Manipulating elements on new tab and window.
 
 
-### [Elements page](https://letcode.in/elements)**
+### [Elements page](https://letcode.in/elements)
 
 1 Making custom commands
 2 Read from file.
@@ -95,7 +95,8 @@
 1 Interacting with elements from open shadow DOM.
 2 Interacting with elements from closed shadow DOM.
 
-### Other 
+### Other
+ 
 1 Reporting
 2 API intercept
 3 ~~Stubbing~~
