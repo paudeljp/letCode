@@ -12,113 +12,90 @@
 
 **[Input page](https://letcode.in/edit)**
 
-.type() function.
-.clear() function.
-Assertions: assert attributes using .should()
+1 .type() function
+2 .clear() function.
+3 Assertions: assert attributes using .should()
 
 **[Button page](https://letcode.in/buttons)**
 
-.click() function.
-.invoke() function.
-.trigger() mouse actions.
-.wait()
-.url()
+1 .click() function
+2 .invoke() function
+3 .trigger() mouse actions
+4 .wait()
+5 .url()
 
 **[Select page](https://letcode.in/dropdowns)**
 
-Selection from dropdown.
-Iterate items on an element using .each()
+1 Selection from dropdown.
+2 Iterate items on an element using .each()
 
 
 **[Alert page, Wait page](https://letcode.in/alert)**
 
-window events using .on() : Handling alert,confirm events.
-Assertions using .expect()
-Stubbing prompt events.
+1 window events using .on() : Handling alert,confirm events.
+2 Assertions using .expect()
+3 Stubbing prompt events.
 
 
 **[Frame page](https://letcode.in/frame)**
 
-Handling iframes.
-.wrap()
+1 Handling iframes.
+2 .wrap()
 
 **[Radio page](https://letcode.in/radio)**
 
-Interact with radio fields.
+1 Interact with radio fields.
 
 
 **[Window page](https://letcode.in/windows)**
 
-
-Changing element's attribute.
-Spying using cy.spy().
-Manipulating elements on new tab and window.
+1 Changing element's attribute.
+2 Spying using cy.spy().
+3 Manipulating elements on new tab and window.
 
 
 **[Elements page](https://letcode.in/elements)**
 
-
-Making custom commands
-Read from file.
-Write to file.
-
-
-**[Drag page, Drop page](https://letcode.in/draggable)**
+1 Making custom commands
+2 Read from file.
+3 Write to file.
 
 
+### [Drag page](https://letcode.in/draggable), [Drop page](https://letcode.in/dropable)
 
-cypress-drag and drop plugin.
-Drag and Drop using mouse triggers
+1 [cypress-drag and drop](https://www.npmjs.com/package/@4tw/cypress-drag-drop) plugin.
+2 ~~Drag and Drop using mouse triggers~~
 
+### [Selectable page](https://letcode.in/selectable)
 
-Selectable page
+1 Keyboard events.
 
+### [Slider page](https://letcode.in/slider)
 
-Keyboard events.
+1 Interacting with slider.
 
+### [Table page](https://letcode.in/table), [Advanced table page](https://letcode.in/advancedtable)
 
-Slider page
+1 Table data validations.
 
+### [Calendar page](https://letcode.in/calendar)
 
-Interacting with slider.
+1 Interact with calendar.
+2 Date validations.
 
+### [Form page](https://letcode.in/forms)
+1 Interact with different form elements.
 
-Table page, Advanced table page
+### [File page](https://letcode.in/file)
+1 Upload files.
+2 Download files.
+3 Verify file downloads.
 
+### [Shadow DOM page](https://letcode.in/shadow)
+1 Interacting with elements from open shadow DOM.
+2 Interacting with elements from closed shadow DOM.
 
-Table data validations.
-
-
-Calendar page
-
-
-Interact with calendar.
-Date validations.
-
-
-Form page
-
-
-Interact with different form elements.
-
-
-File page
-
-
-Upload files.
-Download files.
-Verify file downloads.
-
-
-Shadow DOM page
-
-
-Interacting with elements from open shadow DOM.
-Interacting with elements from closed shadow DOM.
-
-
-Other
-
-Reporting
-API intercept
-Stubbing
+### Other 
+1 Reporting
+2 API intercept
+3 ~~Stubbing~~
